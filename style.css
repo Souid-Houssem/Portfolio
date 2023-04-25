@@ -162,7 +162,21 @@ section .title::after{
 }
 
 .skills .skills-content img {
+    padding: 5px;
+    
     width: 180px;
+    height: 180px;
+    max-width: 300px; /* adjust as needed */
+    display: block;
+    margin: 0 auto;
+  }
+
+
+
+.skills .skills-content img  {
+    padding: 25px;
+    
+    width: 300px;
     height: 180px;
     max-width: 300px; /* adjust as needed */
     display: block;
