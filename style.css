@@ -161,6 +161,13 @@ section .title::after{
     filter: brightness(90%);
 }
 
+.skills .skills-content img {
+    width: 180px;
+    height: 180px;
+    max-width: 300px; /* adjust as needed */
+    display: block;
+    margin: 0 auto;
+  }
 
 /* home section styling */
 .home{
